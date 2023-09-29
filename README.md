@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alex a Software Engineering student.
 
-- 🔭 I’m currently working on small coding projects to build my backend skills.  
-- 📚 I’m currently learning JavaScript and Langchain.  
-- 💬 Ask me about anything related to AI models or Data Engineering.
+- 🔭 Currently I'm working on a small coding project to build my backend skills using Java.    
+- 📚 In my spare time I am learning JavaScript and Langchain. I'd like to update TARS (my OpenAi-powered chatbot.)  
+- 💬 Ask me about anything related to AI models or Data Engineering.  
 - 📫 How to reach me: aeick135@gmail.com
